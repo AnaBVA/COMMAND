@@ -1,0 +1,209 @@
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdftitle={COMMAND\textgreater{}\_ mini course},
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{longtable,booktabs}
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+%%% Use protect on footnotes to avoid problems with footnotes in titles
+\let\rmarkdownfootnote\footnote%
+\def\footnote{\protect\rmarkdownfootnote}
+
+%%% Change title format to be more compact
+\usepackage{titling}
+
+% Create subtitle command for use in maketitle
+\providecommand{\subtitle}[1]{
+  \posttitle{
+    \begin{center}\large#1\end{center}
+    }
+}
+
+\setlength{\droptitle}{-2em}
+
+  \title{COMMAND\textgreater{}\_ mini course}
+    \pretitle{\vspace{\droptitle}\centering\huge}
+  \posttitle{\par}
+    \author{}
+    \preauthor{}\postauthor{}
+    \date{}
+    \predate{}\postdate{}
+  
+
+\begin{document}
+\maketitle
+
+\subsection{ May 15th to 17th, 2019}\label{may-15th-to-17th-2019}
+
+This course will be focused in an introduccion to
+COMMAND\textgreater{}\emph{, the basics concepts to build a compendia
+and practical sessions to work with COMMAND\textgreater{}}.
+
+\subsubsection{\texorpdfstring{What is
+\href{https://command.readthedocs.io/en/latest/\#}{COMMAND\textgreater{}\_}
+?}{What is COMMAND\textgreater{}\_ ?}}\label{what-is-command_}
+
+``\href{https://command.readthedocs.io/en/latest/\#}{COMMAND\textgreater{}\_}
+is a web-based application used to download, collect and manage gene
+expression data from public databases.''
+
+ \textbf{Instructor:} Ana Beatriz Villaseñor Altamirano
+
+ \textbf{Dates:} May 15th to 17th
+
+ \textbf{Country:} Mexico
+
+ \textbf{University:} UNAM
+
+ \textbf{Department:} LIIGH
+
+\subsubsection{Attendiees}\label{attendiees}
+
+ Yalbi
+
+ Yalbi's student 1
+
+ Yalbi's student 2
+
+ Ana Victoria
+
+ Ale Medina
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\subsection{Schedule}\label{schedule}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\subsubsection{Wednesday}\label{wednesday}
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+Session & Start & End\tabularnewline
+\midrule
+\endhead
+Presentation & 11:00 am & 11:15 am\tabularnewline
+Transcriptomic Data & 11:15 am & 12:00 pm\tabularnewline
+Public Data & 12:00 pm & 1:00 pm\tabularnewline
+ Practical session: \emph{Public data} & 1:00 pm & 2:00
+pm\tabularnewline
+ Lunch & 2:00 pm & 3:30 pm\tabularnewline
+Introdution of COMMAND & 3:30 pm & 4:30 pm\tabularnewline
+ Practical session: \emph{Intro to COMMAND} & 4:30 pm & 5:00
+pm\tabularnewline
+ Practical session: \emph{COMMAND-Download GSE} & 5:00 pm & 5:15
+pm\tabularnewline
+ Practical session: \emph{COMMAND-Parse GSE} & 5:15 pm & 6:00
+pm\tabularnewline
+\bottomrule
+\end{longtable}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\subsubsection{Thuesday}\label{thuesday}
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+Session & Start & End\tabularnewline
+\midrule
+\endhead
+Platform information & 10:00 am & 11:00 am\tabularnewline
+ Practical session: \emph{COMMAND-Import Platform} & 11:00 am & 12:00
+pm\tabularnewline
+Probes Re-annotation & 12:00 am & 1:00 am\tabularnewline
+ Coffe brake & 12:00 pm & 12:15 pm\tabularnewline
+ Practical session: \emph{COMMAND-Probes re-annotation} & 1:00 pm & 2:00
+pm\tabularnewline
+ Lunch & 2:00 pm & 3:30 pm\tabularnewline
+Databases created with COMMAND & 3:30 pm & 4:00 pm\tabularnewline
+PulmonDB & 4:00 pm & 5:00 pm\tabularnewline
+Future perspectives & 5:00 pm & 6:00 pm\tabularnewline
+\bottomrule
+\end{longtable}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\subsubsection{Friday}\label{friday}
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+Session & Start & End\tabularnewline
+\midrule
+\endhead
+Curation *Yalbi? & 10:00 am & 11:30 am\tabularnewline
+Individual contrast & 11:30 am & 12:00 pm\tabularnewline
+ Coffe brake & 12:00 pm & 12:15 pm\tabularnewline
+ Practical session: \emph{COMMAND-Reference selection} & 12:15 pm &
+12:35 pm\tabularnewline
+ Practical session: \emph{COMMAND-Reference annotation} & 12:35 pm &
+1:00 pm\tabularnewline
+Homogenization & 1:00 pm & 1:35 pm\tabularnewline
+ Practical session: \emph{COMMAND-normalization} & 1:35 pm & 2:00
+pm\tabularnewline
+ Lunch & 2:00 pm & 3:30 pm\tabularnewline
+DB connection & 3:30 pm & 4:30 pm\tabularnewline
+ Practical session: \emph{COMMAND-quieries} & 4:30 pm & 5:30
+pm\tabularnewline
+\bottomrule
+\end{longtable}
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+\includegraphics[width=0.20000\textwidth]{Pictures/liigh.png}
+\includegraphics[width=0.20000\textwidth]{Pictures/UNAM.jpg}
+
+
+\end{document}

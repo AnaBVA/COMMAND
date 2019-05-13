@@ -1,5 +1,6 @@
 ---
 title: "COMMAND>_ mini course"
+output: pdf_document
 ---
 
 ```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
