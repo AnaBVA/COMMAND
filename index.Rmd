@@ -14,8 +14,7 @@ library(fontawesome)
 ## `r fa("calendar-alt", fill= "steelblue")` May 15th to 17th, 2019
 
 
-
-This course will be focused in an introduccion to COMMAND>_, the basics concepts to build a compendia and practical sessions to work with COMMAND>_.
+This course will be focused on an introduction to COMMAND>, the basics concepts to build a compendia and practical sessions to work with COMMAND>.
 
 <br>  
 
