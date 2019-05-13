@@ -8,6 +8,10 @@ library(fontawesome)
 
 <br>  
 
+## `r fa("calendar-alt", fill= "steelblue")` May 15th to 17th, 2019
+
+
+
 This course will be focused in an introduccion to COMMAND>_, the basics concepts to build a compendia and practical sessions to work with COMMAND>_.
 
 <br>  
@@ -19,7 +23,9 @@ This course will be focused in an introduccion to COMMAND>_, the basics concepts
 <br>  
 
  `r fa("user", fill= "steelblue")` __Instructor:__ Ana Beatriz Villaseñor Altamirano
- 
+
+ `r fa("calendar-alt", fill= "steelblue")` __Dates:__ May 15th to 17th
+
  `r fa("globe", fill= "steelblue")` __Country:__ Mexico
  
  `r fa("university", fill= "steelblue")` __University:__ UNAM
@@ -31,15 +37,15 @@ This course will be focused in an introduccion to COMMAND>_, the basics concepts
 
 ### Attendiees 
 
-`r fa("user", fill= "steelblue")` Yalbi
+ `r fa("user", fill= "steelblue")` Yalbi
 
-`r fa("user", fill= "steelblue")` Yalbi's student 1
+ `r fa("user", fill= "steelblue")` Yalbi's student 1
 
-`r fa("user", fill= "steelblue")` Yalbi's student 2
+ `r fa("user", fill= "steelblue")` Yalbi's student 2
 
-`r fa("user", fill= "steelblue")` Ana Victoria 
+ `r fa("user", fill= "steelblue")` Ana Victoria 
 
-`r fa("user", fill= "steelblue")` Ale Medina 
+ `r fa("user", fill= "steelblue")` Ale Medina 
 
 ---
 
