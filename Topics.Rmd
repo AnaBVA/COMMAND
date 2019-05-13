@@ -1,0 +1,63 @@
+---
+title: "Presentations"
+output: html_document
+---
+
+# Transcriptomic Data
+
+## What is transcriptomics? 
+
+## What questions help to answer?
+
+## Methods
+
+## Micoarrays
+
+## RNAseq
+
+## Differential expression analysis 
+
+
+---
+
+# Public Data 
+
+# GEO
+
+## Data acumulation
+
+## Lot of data, so what?
+
+### Replication and Reproducibility
+
+### Meta analsis
+
+## What are the options? (Available Resources)
+
+
+---
+
+# Introduccion of COMMAND
+
+## What is COMMAND?
+It is a web application to build compendium using public data 
+
+## COMMAND purpuse
+Build a compdenidum or database (right now) in MySQL that holds raw data, contrasts and data annotation
+
+## 3 main steps in COMMAND
+
+### 1
+
+### 1
+
+### 1
+
+
+## COLOMBOS
+
+## VESPUCCI
+
+## PulmonDB
+
+

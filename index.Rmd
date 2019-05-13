@@ -1,0 +1,151 @@
+---
+title: "COMMAND>_ mini course"
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+<br>  
+
+This course will be focused in an introduccion to COMMAND>_, the basics concepts to build a compendia and practical sessions to work with COMMAND>_.
+
+<br>  
+
+### What is [COMMAND>_](https://command.readthedocs.io/en/latest/#) ?
+
+"[COMMAND>_](https://command.readthedocs.io/en/latest/#) is a web-based application used to download, collect and manage gene expression data from public databases."
+
+<br>  
+
+ `r fa("user", fill= "steelblue")` __Instructor:__ Ana Beatriz Villaseñor Altamirano
+ 
+ `r fa("globe", fill= "steelblue")` __Country:__ Mexico
+ 
+ `r fa("university", fill= "steelblue")` __University:__ UNAM
+
+ `r fa("university", fill= "steelblue")` __Department:__ LIIGH
+
+
+<br>  
+
+### Attendiees 
+
+`r fa("user", fill= "steelblue")` Yalbi
+
+`r fa("user", fill= "steelblue")` Yalbi's student 1
+
+`r fa("user", fill= "steelblue")` Yalbi's student 2
+
+`r fa("user", fill= "steelblue")` Ana Victoria 
+
+`r fa("user", fill= "steelblue")` Ale Medina 
+
+---
+
+## Schedule 
+
+---
+
+<br>
+
+### Wednesday 
+
+<style>
+div.yellow { background-color:#e5e5e5; border-radius: 5px; padding: 20px;}
+</style>
+
+<div class = "yellow">
+
+
+Session | Start | End
+------------- | ------------- | -------------
+Presentation | 11:00 am | 11:15 am 
+Transcriptomic Data | 11:15 am | 12:00 pm 
+Public Data | 12:00 pm | 1:00 pm
+`r fa("laptop", fill= "#1e86db", height = 15)` Practical session: *Public data* | 1:00 pm | 2:00 pm
+`r fa("utensils", fill= "#1e86db", height = 20)` Lunch |  2:00 pm | 3:30 pm 
+Introdution of COMMAND | 3:30 pm | 4:30 pm
+`r fa("laptop", fill= "#1e86db", height = 15)` Practical session: *Intro to COMMAND* | 4:30 pm | 5:00 pm
+`r fa("laptop", fill= "#1e86db", height = 15)` Practical session: *COMMAND-Download GSE* | 5:00 pm | 6:00 pm
+`r fa("laptop", fill= "#1e86db", height = 15)` Practical session: *COMMAND-Parse GSE* | 5:00 pm | 6:00 pm
+</div>
+
+<br>
+
+---
+
+<br>
+
+### Thuesday  
+
+<style>
+div.yellow { background-color:#e5e5e5; border-radius: 5px; padding: 20px;}
+</style>
+
+<div class = "yellow">
+
+Session | Start | End
+------------- | ------------- | -------------
+Platform information | 10:00 am | 11:00 am
+`r fa("laptop", fill= "#1e86db", height = 15)` Practical session: *COMMAND-Import Platform* | 11:00 am | 12:00 pm
+Probes Re-annotation| 12:00 am | 1:00 am
+`r fa("coffee", fill= "#1e86db", height = 20)` Coffe brake   |  12:00 pm | 12:15 pm
+`r fa("laptop", fill= "#1e86db", height = 15)` Practical session: *COMMAND-Probes re-annotation* | 1:00 pm | 2:00 pm
+`r fa("utensils", fill= "#1e86db", height = 20)` Lunch |  2:00 pm | 3:30 pm 
+Databases created with COMMAND | 3:30 pm | 4:00 pm
+PulmonDB | 4:00 pm | 5:00 pm
+Future perspectives | 5:00 pm | 6:00 pm
+
+</div>
+
+<br>
+
+
+---
+
+<br>
+
+### Friday  
+
+<style>
+div.yellow { background-color:#e5e5e5; border-radius: 5px; padding: 20px;}
+</style>
+
+<div class = "yellow">
+
+Session | Start | End
+------------- | ------------- | -------------
+Curation *Yalbi? | 10:00 am | 11:30 am 
+Individual contrast | 11:30 am | 12:00 pm 
+`r fa("coffee", fill= "#1e86db", height = 20)` Coffe brake   |  12:00 pm | 12:15 pm
+`r fa("laptop", fill= "#1e86db", height = 15)` Practical session: *COMMAND-Reference selection* | 12:15 pm | 12:35 pm
+`r fa("laptop", fill= "#1e86db", height = 15)` Practical session: *COMMAND-Reference annotation* | 12:35 pm | 1:00 pm
+Homogenization | 1:00 pm | 1:35 pm
+`r fa("laptop", fill= "#1e86db", height = 15)` Practical session: *COMMAND-normalization* | 1:35 pm | 2:00 pm
+`r fa("utensils", fill= "#1e86db", height = 20)` Lunch |  2:00 pm | 3:30 pm 
+DB connection | 3:30 pm | 4:30 pm 
+`r fa("laptop", fill= "#1e86db", height = 15)` Practical session: *COMMAND-quieries* | 4:30 pm | 5:30 pm
+
+</div>
+
+<br>
+
+
+
+
+
+---
+
+<br>
+<br>
+
+
+<center>
+ ![LIIGH](Pictures/liigh.png){width=20%}
+ ![UNAM](Pictures/UNAM.jpg){width=20%}
+</center>
+
+
+
+

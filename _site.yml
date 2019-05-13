@@ -1,0 +1,8 @@
+name: "my-website"
+navbar:
+  title: "COMMAND course"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "References"
+      href: index.html
