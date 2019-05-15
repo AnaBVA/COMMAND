@@ -75,12 +75,14 @@ Public Data | 12:00 pm | 1:00 pm
 `r fa("utensils", fill= "#1e86db", height = 20)` Lunch |  2:00 pm | 3:30 pm 
 Introdution of COMMAND | 3:30 pm | 4:30 pm
 `r fa("laptop", fill= "#1e86db", height = 15)` Practical session: *Intro to COMMAND* | 4:30 pm | 5:00 pm
-Minería de Datos y Redes Neuronales Artificiales *Dr. Iván Gallardo* | 5:00 pm | 6:00 pm
+`r fa("user", fill= "steelblue")` *Dr. Iván* "Mineria de Datos y Redes Neuronales Artificiales" | 5:00 pm | 6:00 pm
+
 
 </div>
 
 <br>
 
+`r fa("user", fill= "steelblue")` *Dr. Iván Gallardo*   "Minería de Datos y Redes Neuronales Artificiales"  | 5:00 pm | 6:00 pm
 ---
 
 <br>
